@@ -1,0 +1,27 @@
+File System Backup Tool
+Freeware License (Proprietary Software)
+
+Copyright (c) Beijing succeed technology Co.,Ltd. 2026
+All rights reserved.
+
+Permission is hereby granted to any individual or organization to use this software
+free of charge, for personal or commercial purposes, subject to the following conditions:
+
+1. This software is provided in binary form only.  
+   Source code is not provided and is not licensed for disclosure.
+
+2. You may not modify, reverse engineer, decompile, or disassemble this software,
+   except to the extent expressly permitted by applicable law.
+
+3. You may not redistribute, sublicense, sell, rent, lease, or bundle this software
+   as part of another product without explicit written permission from the author.
+
+4. This software is provided "as is", without warranty of any kind, express or implied,
+   including but not limited to the warranties of merchantability, fitness for a
+   particular purpose, and non-infringement.
+
+5. In no event shall the author be liable for any claim, damages, or other liability,
+   whether in an action of contract, tort, or otherwise, arising from, out of, or in
+   connection with the software or the use or other dealings in the software.
+
+By using this software, you agree to be bound by the terms of this license.
